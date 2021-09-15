@@ -5,6 +5,7 @@
     --main: transparent;
     --details: #57A773;
     --minor_details: #f1619d;
+    --details-active: #57A773;
 }
 
 body {
